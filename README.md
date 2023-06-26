@@ -1,2 +1,6 @@
-# agm3
-Plugin to automatically turn on the spectator mode if the player has died.  Support: savkovaya_lopatka - DonationAlerts Telegram channel: https://t.me/nxvxrmxndx
+# Auto Spectator | Auto gamemode 3 [AGM3]
+**Plugin to automatically turn on the spectator mode if the player has died.**  
+
+~ Support: [CLICK HERE](https://www.donationalerts.com/r/savkovaya_lopatka)
+
+~ TG: [CLICK HERE](https://t.me/nxvxrmxndx)
