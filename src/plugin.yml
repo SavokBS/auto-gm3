@@ -1,0 +1,10 @@
+name: AGM3
+main: com.savok.agm3.Main
+author: savokbs
+version: 1.0
+description: Plugin to automatically turn on the spectator mode if the player has died.
+commands:
+  agm:
+    description: Toogle auto gamemode 3
+    usage: /agm [gui]
+    permission: agm.agm
